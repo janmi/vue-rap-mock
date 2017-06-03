@@ -1,6 +1,6 @@
 # vue-rap-mock
 
-> A Vue.js project
+> A Vue.js rap mcok project
 
 ## Build Setup
 
